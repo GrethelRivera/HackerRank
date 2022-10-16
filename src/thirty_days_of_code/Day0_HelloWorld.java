@@ -2,7 +2,7 @@ package thirty_days_of_code;
 
 import java.util.Scanner;
 
-public class Day_0_HelloWorld {
+public class Day0_HelloWorld {
 //    public class Solution {
 
         public static void main(String[] args) {
@@ -15,4 +15,5 @@ public class Day_0_HelloWorld {
 
         }
     }
+
 
