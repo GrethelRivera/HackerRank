@@ -1,4 +1,4 @@
-package thirty_days_of_code;
+package day2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
