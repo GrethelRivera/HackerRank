@@ -41,4 +41,3 @@ public class LinkedList {
         sc.close();
     }
 }
-}
