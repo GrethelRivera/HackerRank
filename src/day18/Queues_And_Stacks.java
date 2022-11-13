@@ -1,5 +1,7 @@
 package day18;
 
+import java.util.Scanner;
+
 public class Queues_And_Stacks {
 
     import java.io.*;
